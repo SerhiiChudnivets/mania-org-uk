@@ -5,7 +5,7 @@
   "url": "mania.org.uk",
   "template": "tupchiy",
   "language_code": "en-IE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -374,9 +374,9 @@
       "question": "How can I report a problem with a game result?"
     }
   ],
-  "_generated_at": "2026-10-16T13:26:35.733Z",
+  "_generated_at": "2026-10-16T13:27:25.207Z",
   "_version": "1.0.0",
   "content_alt": "mania casino games",
-  "_last_deploy": "2026-10-16T13:26:36.321Z",
-  "_deploy_trigger": "0g02q5"
+  "_last_deploy": "2026-10-16T13:27:25.818Z",
+  "_deploy_trigger": "cw11ds"
 }
