@@ -23,7 +23,7 @@
       "heroTitle": "Mania Casino",
       "heroSubtitle": "Welcome Bonus",
       "heroBadge": "Slots, Sports & More",
-      "ctaText": "Explore Now",
+      "ctaText": "Join Now",
       "tagline": "777% up to €8,000",
       "heroImage": "/uploads/5e0477afb9a38c6f48f0912f522a4f47.webp",
       "template": "homepage",
@@ -102,7 +102,7 @@
       "html_head": "<meta name=\"google-site-verification\" content=\"EBfE2RRxdr7vlhHWTM0KUybvS-iaunmcBO-i1MP5a7Y\" />\n<link rel=\"canonical\" href=\"https://mania.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://mania.org.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://mania.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Mania Casino | Welcome Bonus 777% up to €8,000\">\n<meta property=\"og:description\" content=\"Join Mania Casino for exciting slots, live dealer games, sports betting and crash games. Explore welcome bonuses, VIP rewards and more. Play responsibly.\">\n<meta property=\"og:url\" content=\"https://mania.org.uk/\">\n<meta property=\"og:site_name\" content= \"Mania Casino\">\n",
       "faq_title": "FAQ",
       "hero_badge": "Slots, Sports & More",
-      "cta_text": "Explore Now",
+      "cta_text": "Join Now",
       "content_alt": "mania casino games",
       "heroImage_alt": "mania casino banner",
       "popupLogo_alt": "mania casino logo",
@@ -169,7 +169,7 @@
   "hero_title": "Mania Casino",
   "hero_subtitle": "Welcome Bonus",
   "hero_badge": "Slots, Sports & More",
-  "cta_text": "Explore Now",
+  "cta_text": "Join Now",
   "tagline": "777% up to €8,000",
   "features_list": null,
   "footer_text": "© 2026. Mania Casino. All rights reserved",
@@ -179,7 +179,7 @@
   "register_text": "Sign Up",
   "slots_title": "Mania Casino Slots",
   "bonus_title": "Bonuses and Promotions ",
-  "get_bonus_btn_text": "Join Now",
+  "get_bonus_btn_text": "Explore Now",
   "redirect_link": "/play/",
   "home_name": "Mania Casino",
   "subdomains": null,
@@ -374,9 +374,9 @@
       "question": "How can I report a problem with a game result?"
     }
   ],
-  "_generated_at": "2026-10-16T13:27:25.207Z",
+  "_generated_at": "2026-10-16T13:33:07.613Z",
   "_version": "1.0.0",
   "content_alt": "mania casino games",
-  "_last_deploy": "2026-10-16T13:27:25.818Z",
-  "_deploy_trigger": "cw11ds"
+  "_last_deploy": "2026-10-16T13:33:08.211Z",
+  "_deploy_trigger": "a6al"
 }
